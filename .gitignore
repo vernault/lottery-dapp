@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Hardhat artifacts and cache
+artifacts/
+cache/
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Coverage reports
+coverage/
+coverage.json
+lcov-report/
+
+# Frontend build files
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# Chainlink subscription keys
+.chainlink/
